@@ -40,16 +40,15 @@ header{
     background-color: #257C98;
     color: white;
     text-align: center;
-    
-    
+    padding-right: 10px; 
 }
 .s_superior_dere .minombre{
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: flex-end;
     width: 100%;
     height: 100%;
-    font-size: 2rem;
+    font-size: 2.4rem;
 }
 .s_superior_dere p{
     display: flex;
@@ -58,7 +57,7 @@ header{
     width: 100%;
     height: 100%;
     padding-bottom: 2%;
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 main{
     box-sizing: border-box;
